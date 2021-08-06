@@ -38,7 +38,7 @@ client.on('message', msg => {
 	if (cmd.permissions) {
 		const authorPerms = msg.channel.permissionsFor(msg.author);
 		if (!authorPerms || !authorPerms.has(cmd.permissions)) {
-			return msg.reply('You can not do this!');
+			return msg.reply('You cant do this!');
 		}
 	}
 
