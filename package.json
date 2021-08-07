@@ -1,0 +1,22 @@
+{
+  "name": "RBS",
+  "version": "1.0.0",
+  "description": "This is a modular discord bot, still in early deveopment, dm Soup#3034 on discord if you want to help test it",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoupDevHub/RoboSoup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SoupDevHub/RoboSoup/issues"
+  },
+  "homepage": "https://github.com/SoupDevHub/RoboSoup#readme"
+}
