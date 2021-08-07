@@ -1,6 +1,6 @@
 {
   "name": "RBS",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "This is a modular discord bot, still in early deveopment, dm Soup#3034 on discord if you want to help test it",
   "main": "index.js",
   "dependencies": {},
