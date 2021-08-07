@@ -1,9 +1,23 @@
-# RoboSoup
-## Bot that does things for discord.
+<p align="center">
+ <h1 align="center">RoboSoup</h1>
+ <h3 align="center">A simple discord bot</h3>
+</p>
+  <p align="center">
+    <img src="https://img.shields.io/github/repo-size/SoupDevHub/RoboSoup?style=for-the-badge"/>
+    <img src="https://img.shields.io/github/languages/top/SoupDevHub/RoboSoup?style=for-the-badge"/>
+    <img src="https://img.shields.io/github/downloads/SoupDevHub/RoboSoup/total?style=for-the-badge"/>
+  </p>
 
-![Repo Size](https://img.shields.io/github/repo-size/SoupDevHub/RoboSoup?style=for-the-badge)&nbsp;
-![](https://img.shields.io/github/languages/top/SoupDevHub/RoboSoup?style=for-the-badge)&nbsp;
-![GitHub all releases](https://img.shields.io/github/downloads/SoupDevHub/RoboSoup/total?style=for-the-badge)&nbsp;
-![Azure DevOps builds](https://img.shields.io/azure-devops/build/ahmedanzaldua/f95f0d49-17a0-4a12-8069-1338d1646efb/5?style=for-the-badge)&nbsp;
+# Documentation
 
-This is a modular discord bot, still in early deveopment, dm Soup#3034 on discord if you want to help test it
+put documentation here
+
+table of contents here
+
+# Credits
+
+example
+
+spaghetti - main developer
+
+pasta - developer
