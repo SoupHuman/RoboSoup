@@ -11,5 +11,5 @@
     <img src="https://img.shields.io/github/package-json/v/SoupDevHub/RoboSoup?style=for-the-badge"/>
   </p>
 
-This is a modular discord bot, still in early deveopment, reply to issue [#5](https://github.com/SoupDevHub/RoboSoup/issues/5) to test
+[This is a modular discord bot, still in early deveopment, reply to issue](https://www.grammarly.com/), reply to issue [#5](https://github.com/SoupDevHub/RoboSoup/issues/5) to test
 
