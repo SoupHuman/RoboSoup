@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/github/repo-size/SoupDevHub/RoboSoup?style=for-the-badge"/>
     <img src="https://img.shields.io/github/languages/top/SoupDevHub/RoboSoup?style=for-the-badge"/>
     <img src="https://img.shields.io/github/downloads/SoupDevHub/RoboSoup/total?style=for-the-badge"/>
-    <img src="https://img.shields.io/github/commit-activity/m/SoupDevHub/RoboSoup?style=for-the-badge"/>
+    <img src="https://img.shields.io/github/commit-activity/w/SoupDevHub/RoboSoup?style=for-the-badge"/>
     <img src="https://img.shields.io/github/package-json/v/SoupDevHub/RoboSoup?style=for-the-badge"/>
   </p>
 
