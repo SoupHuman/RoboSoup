@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/github/package-json/v/SoupDevHub/RoboSoup?style=for-the-badge"/>
   </p>
 
-# Note:
+# Note
 Currently working on a **major** rewrite, dont expect too much activity on the repo until its done.
 
 # Basic Information
