@@ -10,6 +10,8 @@
     <img src="https://img.shields.io/github/package-json/v/SoupDevHub/RoboSoup?style=for-the-badge"/>
   </p>
 
+# Currently working on a **major** rewrite, dont expect too much activity on the repo until its done.
+
 # Basic Information
 
 This is a modular discord bot, still in early development, reply to issue [#5](https://github.com/SoupDevHub/RoboSoup/issues/5) if you want to be a tester. (Looking for MacOS testers)
