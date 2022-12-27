@@ -1,6 +1,22 @@
-const { ShardingManager } = require('discord.js')
-const { token } = require('./config.json')
-const manager = new ShardingManager('./rs.js', { token: token });
+const { REST, Routes } = require('discord.js');
 
-manager.on('shardCreate', shard => console.log(`Launched shard ${shard.id}`));
-manager.spawn();
+const commands = [
+    {
+        name: 'ping',
+        description: 'Replies with Pong!',
+    },
+];
+
+const rest = new REST({ version: '10' }).setToken(TOKEN);
+
+(async () => {
+    try {
+        console.log('Started refreshing application (/) commands.');
+
+        await rest.put(Routes.applicationCommands(CLIENT_ID), { body: commands });
+
+        console.log('Successfully reloaded application (/) commands.');
+    } catch (error) {
+        console.error(error);
+    }
+})();

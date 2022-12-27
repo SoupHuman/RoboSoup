@@ -3,8 +3,10 @@
   "version": "0.1.1",
   "description": "This is a modular discord bot, still in early deveopment, dm Soup#3034 on discord if you want to help test it",
   "main": "src/index.js",
-  "dependencies": {},
-  "devDependencies": {},
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "fs": "^0.0.1-security"
+  },
   "scripts": {
     "test": "echo \"No tests available\""
   },
