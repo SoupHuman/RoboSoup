@@ -119,3 +119,5 @@ dist
 
 # Visual Studio
 .vs
+
+config.json
